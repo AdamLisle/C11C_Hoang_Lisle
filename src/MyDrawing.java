@@ -3,6 +3,7 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+// Arbitrary Change 1
 
 public class MyDrawing extends JPanel {
 	private Cat cat;
